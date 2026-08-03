@@ -1,0 +1,7 @@
+{
+    "log_file": "scanner.log",
+    "txt_report": "scan_report.txt",
+    "csv_report": "scan_report.csv",
+    "json_report": "scan_report.json",
+    "default_timeout": 60
+}

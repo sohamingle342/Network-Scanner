@@ -1,0 +1,28 @@
+{
+    "date": "03-08-2026",
+    "time": "07:23:46 PM",
+    "target_ip": "10.10.174.231",
+    "host_status": "UP",
+    "operating_system": "Microsoft Windows 11 24H2 - 25H2",
+    "scan_duration": "8.18 seconds",
+    "open_ports": [
+        {
+            "port": 135,
+            "service": "msrpc",
+            "product": "Microsoft Windows RPC",
+            "version": ""
+        },
+        {
+            "port": 139,
+            "service": "netbios-ssn",
+            "product": "Microsoft Windows netbios-ssn",
+            "version": ""
+        },
+        {
+            "port": 445,
+            "service": "microsoft-ds",
+            "product": "",
+            "version": ""
+        }
+    ]
+}

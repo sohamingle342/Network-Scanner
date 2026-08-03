@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+
+scanner.log
+
+scan_history.db
+
+reports/
+
+.vscode/

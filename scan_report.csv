@@ -1,0 +1,4 @@
+Port,Service,Product,Version
+135,msrpc,Microsoft Windows RPC,
+139,netbios-ssn,Microsoft Windows netbios-ssn,
+445,microsoft-ds,,

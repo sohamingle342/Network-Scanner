@@ -1,0 +1,27 @@
+========================================
+NETWORK SCANNER REPORT
+========================================
+
+Date : 03-08-2026
+Time : 07:23:46 PM
+
+Target IP        : 10.10.174.231
+Host Status      : UP
+Operating System : Microsoft Windows 11 24H2 - 25H2
+Scan Duration    : 8.18 seconds
+
+----------------------------------------
+Open Ports
+----------------------------------------
+135    msrpc           Microsoft Windows RPC 
+139    netbios-ssn     Microsoft Windows netbios-ssn 
+445    microsoft-ds     
+
+----------------------------------------
+Security Findings
+----------------------------------------
+No obvious issues detected
+
+========================================
+Scan Completed Successfully
+========================================
